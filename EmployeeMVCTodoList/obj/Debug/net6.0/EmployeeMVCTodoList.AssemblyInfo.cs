@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmployeeMVCTodoList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d707f39820d392cb948705e26efc7d9d715feb9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmployeeMVCTodoList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmployeeMVCTodoList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

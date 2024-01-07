@@ -64,3 +64,4 @@ D:\Programming\C#\AspNet\EmployeeMVCTodoList\EmployeeMVCTodoList\bin\Debug\net6.
 D:\Programming\C#\AspNet\EmployeeMVCTodoList\EmployeeMVCTodoList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Programming\C#\AspNet\EmployeeMVCTodoList\EmployeeMVCTodoList\obj\Debug\net6.0\EmployeeMVCTodoList.csproj.AssemblyReference.cache
 D:\Programming\C#\AspNet\EmployeeMVCTodoList\EmployeeMVCTodoList\obj\Debug\net6.0\EmployeeMVCTodoList.csproj.CopyComplete
+D:\Programming\C#\AspNet\EmployeeMVCTodoList\EmployeeMVCTodoList\obj\Debug\net6.0\EmployeeMVCTodoList.sourcelink.json
